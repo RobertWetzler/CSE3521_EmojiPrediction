@@ -15,8 +15,9 @@ Algorithms(.ipynb File):
 Algorithms(.py File): 
 	Contains the code for both algorithms. 
 	The files are .py files.
-	Note: The .py files contain the same code as their .ipynb counterparts. 
-	The .py files were provided in case there's difficulty in running the .ipynb code
+	Note: The .py files titled 'cnn_implementation.py' and 'naivebayes_implementation.py' contain the same code as their .ipynb counterparts. 
+	The .py files for the algorithm implementations were provided in case there's difficulty in running the .ipynb code.
+	Also contains emoji_graph.py, containing the code we used to generate graphs for individual emoji accuracy.
 
 
 
